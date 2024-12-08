@@ -1,0 +1,331 @@
+clIent number,Attrition Flag,Customer-age,Gender,Education LEVEL,marital status,Income_Category,MonthsBook,CD,Avg_Utilization_Ratio,PhoneNumber,Address,dependents
+768805383,Existing Customer,45.0,M ,High School,Married,$60K - $80K,39,,0.061,+33--6-23-45-67-89,"Berlin, Rue de Rivoli, 10117",2
+818770008,Existing Customer,49.0,F,Graduate,Single,Less than $40K,44,8256.0,0.105,+44 7911 --123456,"Berlin, Rue de Rivoli, 00187",
+713982108,Existing Customer,51.0,M,Graduate,Married,$80K - $120K,36,,0.0,+4923 456 7890,"Madrid, Via Condotti, 75001",
+769911858,Existing Customer,40.0,F,High School,Unknown,Less than $40K,34,3313.0,0.76,+33 6 12 34 56 78,"Paris, Via Condotti, 75001",1
+709106358,Existing Customer,4.0,Femme,Uneducated,Married,$60K - $80K,21,,0.0,+44 20 7946 0958,"Paris, Rue de Rivoli, 00187",
+713061558,Existing Customer,44.0,M,Graduate,Married,$40K - $60K,36,4010.0,0.311,+44 20 7946 0958,"London, Unter den Linden, NW1 6XE",1
+810347208,Existing Customer,51.0,M,Unknown,Married,$120K +,46,,0.066,+44 20 7946 0958,"Rome, Baker Street, 00187",1
+818906208,Existing Customer,32.0,M,High School,Unknown,$60K - $80K,27,29081.0,0.048,+33 6--12 34--56 78,"Berlin, Unter den Linden, 10117",0
+710930508,Existing Customer,370.0,M,Uneducated,Single,$60K - $80K,36,22352.0,0.113, +49 30 12345678,"Paris, Unter den Linden, 00187",
+719661558,Existing Customer,48.0,m,Graduate,Single,$80K - $120K,36,11656.0,0.144,+49 1523 456 7890,"Madrid, Unter den Linden, NW1 6XE",
+708790833,Existing Customer,42.0,M ,Uneducated,Unknown,$120K +,31,6748.0,0.217,+33--6-23-45-67-89,"Paris, Baker Street, 00187",5
+710821833,Existing Customer,65.0,M,Unknown,Married,$40K - $60K,54,,0.174,+33 6 12 34 56 78,"Berlin, Gran Via, 75001",
+710599683,Existing Customer,6.0,M,College,Single,$80K - $120K,36,11751.0,0.0,+33--6-23-45-67-89,"Berlin, Baker Street, 75001",
+816082233,Existing Customer,35.0,M,Graduate,Unknown,$60K - $80K,30,8547.0,0.195,+49 1523 456 7890,"Paris, Baker Street, 75001",
+712396908,Existing Customer,57.0,Femme,Graduate,Married,Less than $40K,48,2436.0,0.279,+49 1523 456 7890,"London, Unter den Linden, 00187",
+,,44.0,Fe,Unknown,Unknown,$80K - $120K,37,4234.0,0.23,+49 1523--4567890,"Paris, Via Condotti, 75001",1
+709967358,Existing Customer,480.0,  ,Post-Graduate,Single,$80K - $120K,36,30367.0,0.078,+33--6-23-45-67-89,"London, Rue de Rivoli, 28013",
+753327333,Existing Customer,41.0,M,Unknown,Married,$80K - $120K,34,13535.0,0.095,+44 7911 123456,"Rome, Rue de Rivoli, 28013",1
+806160108,Existing Customer,61.0,f,High School,Married,$40K - $60K,56,3193.0,0.788,+49 1523--4567890,"Madrid, Unter den Linden, 28013",
+709327383,Existing Customer,455.0,m,Graduate,Married,,37,14470.0,0.08,+33 6 12 34 56 78,"London, Gran Via, 00187",
+806165208,Existing Customer,,f,Doctorate,Divorced,$60K - $80K,42,20979.0,0.086,+33 6 12 34 56 78,"Berlin, Baker Street, 00187",1
+708508758,Attrited Customer,,,Graduate,Married,Less than $40K,49,1438.3,0.0,+44 7911 123456,"Paris, Unter den Linden, 75001",1
+784725333,Existing Customer,41.0,M,High School,Married,$40K - $60K,33,4470.0,0.152,+49 1523 456 7890,"Madrid, Rue de Rivoli, NW1 6XE",
+,Existing Customer,47.0,F,Unknown,Single,Less than $40K,36,2492.0,0.626,+33 6 12 34 56 78,"Berlin, Rue de Rivoli, 10117",
+789124683,Existing Customer,54.0,,Unknown,Married,$80K - $120K,42,12217.0,0.0,+49 1523--4567890,"Paris, Unter den Linden, 28013",1
+771071958,Existing Customer,,F, ,Single,,28,,0.215,+49 1523 456 7890,"Rome, Rue de Rivoli, 10117",
+720466383,Existing Customer,59.0,M,High School,Unknown,$40K - $60K,46,14784.0,0.093,+44 20 7946 0958,"Rome, Baker Street, 75001",1
+804424383,Existing Customer,63.0, ,Unknown,Married,$60K - $80K,56,,0.099,+44 7911 --123456,"Berlin, Unter den Linden, NW1 6XE",
+718813833,Existing Customer,44.0,F,Uneducated,Single,Unknown,34,10100.0,0.0,+44 7911 --123456,"London, Gran Via, 28013",
+806624208,Existing Customer,47.0,M,High School,Married,$40K - $60K,42,4785.0,0.285,+44 7911 --123456,"Paris, Via Condotti, 28013",
+778348233,Existing Customer,53.0,M,Unknown,Married,$80K - $120K,33,,0.658, +49 30 12345678,"Berlin, Via Condotti, 10117",6
+712991808,Existing Customer,534.0,M,Uneducated,Married,$60K - $80K,48,2451.0,0.69,+49 1523--4567890,"Madrid, Baker Street, NW1 6XE",
+709029408,Existing Customer,,M,Graduate,Married,$60K - $80K,36,8923.0,0.282, +49 30 12345678,"Berlin, Rue de Rivoli, 10117",
+788658483,Existing Customer,53.0,m,College,Married,Less than $40K,38,2650.0,0.562,+49 1523 456 7890,"London, Unter den Linden, 75001",
+787937058,Existing Customer,58.0,M,Graduate,Married,$80K - $120K,49,12555.0,0.135,+33 6--12 34--56 78,"Rome, Unter den Linden, 75001",
+715318008,Existing Customer,55.0,F,College,Single,Less than $40K,36,3520.0,0.544,+49 1523 456 7890,"Rome, Baker Street, 10117",
+713962233,,55.0,,Graduate,Married,Less than $40K,36,3035.0,0.757,+44 7911 123456,"London, Rue de Rivoli, 00187",
+785432733,Existing Customer,42.0,F,High School,Married,Less than $40K,36,15433.0,0.0,+33 6--12 34--56 78,"Rome, Via Condotti, 10117",
+715190283,Existing Customer,57.0,F,Graduate,Unknown,$40K - $60K,49,3672.0,0.241,+33 6 12 34 56 78,"London, Gran Via, 75001",
+708300483,Attrited Customer,66.0,F,Doctorate,Married,Unknown,56,7882.0,0.077,+44 7911 --123456,"Madrid, Gran Via, 10117",
+827111283,Existing Customer,45.0,   ,Graduate,Single,$80K - $120K,41,32426.0,0.018,+33 6 12 34 56 78,"Paris, Baker Street, 75001",
+758551608,Existing Customer,51.0,M,Unknown,Married,$40K - $60K,44,6205.0,0.355,+33 6--12 34--56 78,"Madrid, Unter den Linden, 00187",1
+773146383,Existing Customer,50.0,M ,College,Single,$40K - $60K,43,,0.145,+33 6 12 34 56 78,"Paris, Gran Via, 75001",
+778493808,Existing Customer,49.0,M,High School,Married,$60K - $80K,37,3906.0,0.0,+44 7911 --123456,"Rome, Via Condotti, 00187",
+720572508,Existing Customer,38.0,,Graduate,Single,Unknown,28,9830.0,0.209,+33 6 12 34 56 78,"Rome, Unter den Linden, 28013",
+712661433,Existing Customer,49.0,F ,Uneducated,Single,$80K - $120K,30,34516.0,0.0, +49 30 12345678,"Berlin, Unter den Linden, 00187",1
+789172683,Existing Customer,56.0,M, ,Married,$60K - $80K,45,2283.0,0.626,+33--6-23-45-67-89,"Paris, Rue de Rivoli, 28013",
+738406533,Existing Customer,59.0,M,Doctorate,Married,$40K - $60K,52,2548.0,0.793,+49 1523 456 7890,"Rome, Baker Street, NW1 6XE",
+799723908,Existing Customer,46.0,femme ,High School,Married,$80K - $120K,40,19458.0,0.074,+33 6--12 34--56 78,"London, Baker Street, 00187",
+771490833,Existing Customer,52.0,M,College,Single,$80K - $120K,40,4745.0,0.259,+33 6 12 34 56 78,"Rome, Unter den Linden, 75001",
+720756708,Existing Customer,-52.0,Fe,Unknown,Married,Less than $40K,41,2622.0,0.591,+44 7911 --123456,"Paris, Rue de Rivoli, NW1 6XE",
+779471883,Attrited Customer,54.0,f,Graduate,Married,Less than $40K,40,1438.3,0.562,+33--6-23-45-67-89,"Madrid, Gran Via, 00187",
+711525033,Existing Customer,66.0,M ,High School,Married,Less than $40K,54,3171.0,0.687,+44 20 7946 0958,"London, Baker Street, NW1 6XE",0
+712813458,Existing Customer,49.0,M,Unknown,Married,$120K +,36,19763.0,0.127,+44 20 7946 0958,"Rome, Via Condotti, NW1 6XE",
+714374133,Attrited Customer,56.0,m,Graduate,Married,$120K +,36,,0.0,+49 1523--4567890,"Rome, Rue de Rivoli, 00187",1
+717891558,Existing Customer,49.0,F,Graduate,Unknown,Less than $40K,36,3298.0,0.667,+49 1523 456 7890,"Berlin, Via Condotti, 10117",
+716632758,Existing Customer,49.0,F,Graduate,Single,Less than $40K,36,2802.0,0.843, +49 30 12345678,"Berlin, Unter den Linden, NW1 6XE",
+768563658,Existing Customer,56.0,Fe,Uneducated,Married,$40K - $60K,50,4458.0,0.422,+33--6-23-45-67-89,"Berlin, Via Condotti, 10117",
+711427458,Existing Customer,,F,Graduate,Married,Unknown,35,6273.0,0.156,+33 6 12 34 56 78,"Paris, Unter den Linden, 28013",1
+714091983,Existing Customer,42.0,M,High School,Single,$60K - $80K,34,,0.525,+44 7911 --123456,"Paris, Unter den Linden, NW1 6XE",
+787584108,Existing Customer,55.0,M,Unknown,Married,$80K - $120K,47,3436.0,0.587,+44 20 7946 0958,"Paris, Unter den Linden, 10117",
+712030833,Attrited Customer,48.0,M,Graduate,Married,,35,34516.0,0.0,+44 7911 --123456,"Rome, Gran Via, NW1 6XE",
+  ,Existing Customer,39.0,M,High School,Divorced,$60K - $80K,33,5926.0,0.211,+44 7911 --123456,"Paris, Baker Street, 00187",
+710082708,Existing Customer,44.0,M,Post-Graduate,Single,$120K +,32,23957.0,0.088,+44 20 7946 0958,"London, Rue de Rivoli, NW1 6XE",
+708155733,Existing Customer,,M,High School,Single,,44,14734.0,0.111,+44 20 7946 0958,"Berlin, Baker Street, 00187",1
+788979258,  ,51.0,M,Uneducated,Single,$80K - $120K,38,34516.0,0.044,+33 6--12 34--56 78,"London, Baker Street, 00187",
+807986133,Existing Customer,57.0,M,College,Married,$60K - $80K,52,,0.276, +49 30 12345678,"Rome, Baker Street, 75001",
+788730933,Existing Customer,44.0,F ,Uneducated,Single,Less than $40K,20,2084.0,0.704,+49 1523 456 7890,"Berlin, Baker Street, 00187",
+711314058,Existing Customer,49.0,-M,Graduate,Married,$60K - $80K,32,1687.0,0.656,+49 1523 456 7890,"Paris, Rue de Rivoli, NW1 6XE",
+717975333,Existing Customer,50.0,M,Doctorate,Married,$80K - $120K,38,,0.053,+33 6 12 34 56 78,"Berlin, Gran Via, 10117",
+715971108,Existing Customer,-51.0,M,Graduate,Single,$120K +,42,34516.0,0.051,+33 6--12 34--56 78,"Berlin, Via Condotti, NW1 6XE",
+720096558,Existing Customer,,f,Graduate,Married,Less than $40K,42,2216.0,0.467,+44 7911 123456,"Paris, Via Condotti, 75001",1
+719580033,Existing Customer,54.0,M,Graduate,Unknown,$60K - $80K,43,2910.0,0.698,+33--6-23-45-67-89,"London, Via Condotti, 75001",0
+820582308,Existing Customer,42.0,M,Uneducated,Married,,37,22913.0,0.067,+49 1523--4567890,"London, Via Condotti, 00187",
+789973308,Existing Customer,44.0,-M,College,Single,$60K - $80K,35,24312.0,0.079,+44 7911 123456,"London, Rue de Rivoli, NW1 6XE",
+712876233,Existing Customer,,M,Graduate,Single,$80K - $120K,36,5272.0,0.287,+44 7911 --123456,"Rome, Via Condotti, NW1 6XE",1
+804595158,Existing Customer,,F,Graduate,Single,Less than $40K,36,7000.0,0.36,+44 20 7946 0958,"Rome, Unter den Linden, 75001",
+714826758,Existing Customer,37.0,F,Uneducated,Single,,29,7038.0,0.256,+49 1523 456 7890,"Madrid, Via Condotti, 10117",
+779058108,Existing Customer,49.0,M,Graduate,Divorced,$60K - $80K,30,2536.0,0.719,+33 6 12 34 56 78,"Rome, Gran Via, NW1 6XE",1
+710790258,Existing Customer,47.0,M ,Graduate,Married,,38,,0.066,+33--6-23-45-67-89,"Rome, Gran Via, 10117",
+715623483,Existing Customer,,M,Graduate,Married,$60K - $80K,37,8567.0,0.198, +49 30 12345678,"Berlin, Rue de Rivoli, 10117",
+715156383,Existing Customer,,M,Unknown,Unknown,$120K +,36,,0.044,+44 20 7946 0958,"Berlin, Via Condotti, 00187",
+711013983,Attrited Customer,55.0,F,Unknown,Married,$40K - $60K,45,,0.0,+44 7911 --123456,"Paris, Baker Street, 00187",
+755420433,Existing Customer,59.0,F,Graduate,Married,Unknown,52,10133.0,0.14,+49 1523 456 7890,"Madrid, Unter den Linden, 28013",
+794543958,Existing Customer,53.0,Fe,Graduate,Divorced,$80K - $120K,35,,0.035,+44 7911 123456,"Paris, Rue de Rivoli, 75001",1
+716396358,Existing Customer,,M ,Graduate,Married,,47,,0.619,+44 20 7946 0958,"Berlin, Baker Street, 00187",
+715398033,Existing Customer,53.0,M,High School,Single,$120K +,35,19040.0,0.108,+33 6 12 34 56 78,"Berlin, Via Condotti, 28013",
+711743883,Existing Customer,43.0,Fe,Uneducated,Single,Less than $40K,35,4026.0,0.0,+49 1523--4567890,"Paris, Rue de Rivoli, NW1 6XE",
+719720058, ,44.0,M ,High School,Single,$60K - $80K,31,12756.0,0.066,+33--6-23-45-67-89,"Rome, Unter den Linden, NW1 6XE",
+778992108,Existing Customer,57.0,f,Unknown,Married,$120K +,45,5266.0,0.0,+49 1523--4567890,"Rome, Via Condotti, 28013",
+717539808,Existing Customer,51.0,F,High School,Single,Less than $40K,36,9930.0,0.0,+33--6-23-45-67-89,"Berlin, Baker Street, 75001",
+714070758,Existing Customer,49.0,M,High School,Single,$80K - $120K,38,31302.0,0.062,+44 7911 --123456,"Paris, Baker Street, 75001",
+714107958,Existing Customer,,M,Graduate,Single,$40K - $60K,36,,0.0,+33--6-23-45-67-89,"Berlin, Unter den Linden, 10117",
+789140283,Existing Customer,53.0,M,Graduate,Single,$80K - $120K,42,2664.0,0.765,+33 6 12 34 56 78,"Berlin, Via Condotti, 28013",1
+715550508,Existing Customer,-45.0,F ,Unknown,Married,Unknown,28,2535.0,0.963,+33--6-23-45-67-89,"Rome, Gran Via, NW1 6XE",
+719712633,Existing Customer,64.0,M,Graduate,Married,Less than $40K,52,1709.0,0.524,+44 20 7946 0958,"London, Rue de Rivoli, 00187",1
+772629333,Existing Customer,,M,Graduate,Married,$40K - $60K,35,3454.0,0.347,+49 1523--4567890,"London, Via Condotti, 10117",1
+720336708,Existing Customer,53.0,M,Doctorate,Married,$40K - $60K,35,3789.0,0.45,+44 20 7946 0958,"Rome, Baker Street, 00187",1
+802013583,Existing Customer,56.0,M,College,Married,$120K +,50,9689.0,0.232,+33--6-23-45-67-89,"London, Baker Street, NW1 6XE",1
+711887583,Attrited Customer,47.0,M,Unknown,Married,$80K - $120K,37,5449.0,0.299,+49 1523--4567890,"Berlin, Baker Street, 00187",
+714778833,Existing Customer,49.0,Fe,College,Single,Unknown,43,23032.0,0.085,+33--6-23-45-67-89,"Rome, Via Condotti, 28013",
+713843283,Existing Customer,41.0,F ,Unknown,Married,,34,34516.0,0.059,+44 7911 --123456,"Madrid, Via Condotti, 00187",
+779155158,Existing Customer,53.0,M,Graduate,Married,$120K +,34,2940.0,0.43,+49 1523 456 7890,"Rome, Baker Street, NW1 6XE",1
+721091583,Existing Customer,44.0,F,Graduate,Single,Less than $40K,32,3031.0,0.62,+33 6--12 34--56 78,"Madrid, Gran Via, 28013",1
+713572683,Existing Customer,24.0,M ,High School,Unknown,$60K - $80K,25,1862.0,0.0,+44 7911 --123456,"Paris, Baker Street, NW1 6XE",
+716657058,Existing Customer,,F,Post-Graduate,Married,Less than $40K,33,,0.111,+49 1523 456 7890,"Rome, Baker Street, 28013",
+779509983,Existing Customer,53.0,M,Post-Graduate,Single,$120K +,36,34516.0,0.027,+44 20 7946 0958,"Rome, Gran Via, NW1 6XE",0
+717929133, ,44.0,M,Uneducated,Married,$60K - $80K,36,,0.169,+44 7911 123456,"Berlin, Via Condotti, 10117",
+808284783,Existing Customer,62.0,f,Unknown,Married,Less than $40K,56,1438.3,0.0,+44 7911 123456,"Berlin, Rue de Rivoli, 10117",
+708476808,Existing Customer,54.0,M,Unknown,Divorced,$120K +,36,33791.0,0.058,+33 6 12 34 56 78,"Paris, Rue de Rivoli, 75001",
+710916408,Existing Customer,,,Graduate,Married,$60K - $80K,39,,0.223,+49 1523 456 7890,"London, Unter den Linden, NW1 6XE",
+708492558,Existing Customer,42.0,M,Unknown,Married,$60K - $80K,36,15088.0,0.057,+44 20 7946 0958,"Rome, Rue de Rivoli, 28013",
+799825758,Existing Customer,42.0,M ,High School,Divorced,$60K - $80K,36,3263.0,0.513,+44 20 7946 0958,"London, Rue de Rivoli, 00187",
+718619883,Existing Customer,54.0,F,Uneducated,Married,Less than $40K,36,,0.473,+33 6--12 34--56 78,"Rome, Unter den Linden, 28013",1
+711844758,Existing Customer,48.0,M,Graduate,Single,$80K - $120K,35,13551.0,0.095,+49 1523 456 7890,"Paris, Rue de Rivoli, 00187",
+714798783,Existing Customer,49.0,M,Graduate,Single,$80K - $120K,36,18886.0,0.047,+44 7911 123456,"Berlin, Gran Via, NW1 6XE",
+826762908,Existing Customer,52.0,M,High School,Unknown,,48,11976.0,0.106,+33 6--12 34--56 78,"Berlin, Unter den Linden, 28013",
+771894558,Existing Customer,50.0,M,High School,Single,$80K - $120K,39,9964.0,0.156,+33 6--12 34--56 78,"Rome, Via Condotti, 28013",
+721074183,Existing Customer,49.0,M,Doctorate,Married,$60K - $80K,36,24159.0,0.05,+33--6-23-45-67-89,"Paris, Gran Via, 28013",
+715259583,Existing Customer,53.0,F,High School,Married,Less than $40K,44,5362.0,0.355,+49 1523 456 7890,"Berlin, Baker Street, 75001",
+718414008,Existing Customer,,M,Graduate,Single,$120K +,36,34516.0,0.03,+44 7911 123456,"London, Gran Via, 10117",
+719666283,Existing Customer,,F,Doctorate,Married,Less than $40K,36,3174.0,0.615,+44 7911 --123456,"Madrid, Rue de Rivoli, 28013",
+714877233,Existing Customer,220.0,M,High School,Married,$80K - $120K,47,12262.0,0.15,+49 1523--4567890,"Berlin, Via Condotti, 28013",1
+785387883,Existing Customer,47.0,F,High School,Single,$40K - $60K,41,3788.0,0.407,+44 7911 123456,"Berlin, Gran Via, 28013",
+771075258,Existing Customer,55.0,Fe,College,Single,$120K +,42,34516.0,0.044, +49 30 12345678,"Rome, Unter den Linden, 28013",1
+711318033,Existing Customer,47.0,M,Graduate,Single,$60K - $80K,36,2926.0,0.0,+49 1523--4567890,"Berlin, Via Condotti, 00187",
+783554958,Existing Customer,58.0,Fe,Graduate,Single,$120K +,52,32090.0,0.0,+49 1523 456 7890,"Rome, Unter den Linden, 10117",
+720201033,Attrited Customer,53.0,M,Graduate,Married,$80K - $120K,41,11669.0,0.191,+44 20 7946 0958,"Madrid, Baker Street, 10117",
+718039683,Existing Customer,52.0,Fe,High School,Single,$40K - $60K,45,,0.096,+33 6--12 34--56 78,"Paris, Unter den Linden, 00187",
+710806083,Existing Customer,50.0,F,Uneducated,Unknown,Less than $40K,36,,0.176,+33 6 12 34 56 78,"London, Gran Via, 75001",
+714752208,Existing Customer,42.0,F,Graduate,Married,Less than $40K,36,2393.0,0.83,+49 1523 456 7890,"Madrid, Baker Street, 75001",
+822063408,Existing Customer,43.0,M,Unknown,Married,$40K - $60K,39,6111.0,0.412,+49 1523--4567890,"Berlin, Unter den Linden, NW1 6XE",1
+714490308,Existing Customer,57.0,M,Graduate,Married,$80K - $120K,46,,0.086,+49 1523--4567890,"Madrid, Baker Street, NW1 6XE",
+713356833,Existing Customer,52.0,M,Graduate,Married,$80K - $120K,43,3710.0,0.678,+44 20 7946 0958,"Rome, Via Condotti, NW1 6XE",
+711402333,Existing Customer,47.0,M,Doctorate,Single,Less than $40K,37,3235.0,0.246,+44 7911 --123456,"Paris, Baker Street, 00187",
+708296883,Existing Customer,44.0,F,Graduate,Single,,38,11749.0,0.067,+33 6 12 34 56 78,"Rome, Unter den Linden, NW1 6XE",1
+719154483,Existing Customer,53.0,M,High School,Divorced,$60K - $80K,36,7753.0,0.271,+33 6 12 34 56 78,"London, Gran Via, 75001",
+717721458,Existing Customer,45.0,F ,College,Divorced,$60K - $80K,40,10408.0,0.114,+44 20 7946 0958,"London, Gran Via, NW1 6XE",4
+711112683,Existing Customer,,F,College,Married,Unknown,36,3967.0,0.395,+33 6 12 34 56 78,"Berlin, Rue de Rivoli, NW1 6XE",
+715674483,Existing Customer,39.0,F,Post-Graduate,Single,Less than $40K,27,6205.0,0.406,+44 7911 123456,"Berlin, Unter den Linden, 28013",
+789322833,Attrited Customer,48.0,,High School,Married,,38,8025.0,0.0, +49 30 12345678,"Berlin, Unter den Linden, 10117",1
+789968058,Existing Customer,51.0,M,Unknown,Single,$120K +,42,9036.0,0.258,+49 1523 456 7890,"Rome, Rue de Rivoli, 10117",
+709919283,Existing Customer,54.0,M,Graduate,Married,$80K - $120K,34,14926.0,0.169,+44 7911 --123456,"Berlin, Baker Street, 28013",
+718744008,Existing Customer,59.0,Femme,Graduate,Single,Less than $40K,36,6335.0,0.178,+33 6 12 34 56 78,"London, Gran Via, NW1 6XE",
+767712558,Attrited Customer,59.0,M,College,Single,,53,14979.0,0.0, +49 30 12345678,"Rome, Baker Street, 75001",
+712950783,Attrited Customer,48.0,F,Uneducated,Married,Less than $40K,38,2732.0,0.0,+33 6 12 34 56 78,"Paris, Gran Via, 75001",1
+716104983, ,,m,Graduate,Single,Less than $40K,32,2250.0,0.941,+44 7911 --123456,"London, Baker Street, 75001",
+818839983,Existing Customer,55.0,M,Graduate,Married,$120K +,50,10916.0,0.141,+33 6 12 34 56 78,"Paris, Unter den Linden, 28013",
+772288758,Existing Customer,47.0,F,Graduate,Married,Unknown,36,5349.0,0.23,+44 7911 --123456,"Madrid, Gran Via, 00187",
+712350858,Existing Customer,41.0,M,High School,Married,$80K - $120K,24,9366.0,0.118,+44 7911 --123456,"Rome, Baker Street, 10117",
+711009708,Existing Customer,40.0,F ,High School,Single,$80K - $120K,28,21617.0,0.0,+49 1523--4567890,"Rome, Unter den Linden, 00187",1
+712720158,Existing Customer,68.0,M,Graduate,Married,,56,13860.0,0.119,+49 1523 456 7890,"Paris, Rue de Rivoli, 00187",
+712215258,Existing Customer,50.0,F,Graduate,Single,$40K - $60K,31,18386.0,0.0, +49 30 12345678,"London, Unter den Linden, 00187",
+773827008,Existing Customer,47.0,m,Uneducated,Single,$60K - $80K,41,2405.0,0.64,+44 7911 --123456,"Berlin, Unter den Linden, 28013",
+795232683,Existing Customer,53.0,F,College,Married,Less than $40K,47,2154.0,0.432,+33 6--12 34--56 78,"Madrid, Baker Street, 10117",
+713786508,Existing Customer,42.0,F,Unknown,Married,$40K - $60K,36,,0.0,+33--6-23-45-67-89,"London, Via Condotti, NW1 6XE",
+713539833,Existing Customer,48.0,M ,High School,Single,$40K - $60K,38,8135.0,0.0, +49 30 12345678,"Berlin, Gran Via, 75001",
+712454058,Existing Customer,49.0,M,Doctorate,Married,$120K +,38,9364.0,0.066,+49 1523 456 7890,"Berlin, Rue de Rivoli, 00187",6
+718759833,Existing Customer,,F, ,Married,,35,32643.0,0.0,+44 7911 --123456,"Rome, Unter den Linden, 75001",
+718803333,Existing Customer,43.0,M ,Graduate,Divorced,Less than $40K,34,3195.0,0.612,+44 7911 123456,"Berlin, Unter den Linden, NW1 6XE",1
+720253908,Existing Customer,56.0,,High School,Married,$80K - $120K,43,2852.0,0.359,+44 20 7946 0958,"Berlin, Unter den Linden, 28013",1
+714133158,Existing Customer,,F,College,Single,Unknown,36,4224.0,0.309,+44 20 7946 0958,"Berlin, Unter den Linden, 00187",
+713187033,Existing Customer,46.0,f,Uneducated,Married,$60K - $80K,36,20459.0,0.101,+33--6-23-45-67-89,"Madrid, Rue de Rivoli, 75001",
+714791208,Existing Customer,,F,Unknown,Divorced,Less than $40K,41,3482.0,0.607,+33 6--12 34--56 78,"Rome, Gran Via, NW1 6XE",
+772426383,Existing Customer,50.0,F,Uneducated,Married,$40K - $60K,40,3065.0,0.512,+33 6 12 34 56 78,"Madrid, Rue de Rivoli, NW1 6XE",
+710975883,Existing Customer,-51.0,F,Uneducated,Married,Less than $40K,43,2185.0,0.806,+33 6--12 34--56 78,"Paris, Baker Street, 00187",1
+714264408,Existing Customer,47.0,F,Uneducated,Married,,36,1611.0,0.463,+44 7911 123456,"Paris, Baker Street, 75001",
+715827858, ,58.0,F,Uneducated,Married,Less than $40K,47,2822.0,0.77,+49 1523--4567890,"Madrid, Via Condotti, 75001",
+713741358,Attrited Customer,46.0,M,Graduate,Single,$80K - $120K,33,32975.0,0.076,+49 1523--4567890,"London, Unter den Linden, 10117",
+709531908,Existing Customer,,M,High School,Married,$60K - $80K,47,1438.3,0.0,+33 6--12 34--56 78,"London, Rue de Rivoli, 75001",
+716493408,Existing Customer,45.0,M ,Uneducated,Divorced,Unknown,36,15875.0,0.108,+44 20 7946 0958,"London, Unter den Linden, 75001",
+714141108,Existing Customer,52.0,F,High School,Married,Less than $40K,45,6703.0,0.133,+44 20 7946 0958,"Berlin, Baker Street, 75001",
+708953883,Attrited Customer,53.0,f,Unknown,Married,$80K - $120K,36,3212.0,0.0,+44 20 7946 0958,"Paris, Unter den Linden, 28013",
+712608783,Existing Customer,50.0,M,High School,Married,$80K - $120K,45,34516.0,0.037,+33--6-23-45-67-89,"Madrid, Rue de Rivoli, 28013",1
+820353558,Existing Customer,,F,High School,Married,$40K - $60K,36,,0.146,+44 7911 --123456,"Rome, Unter den Linden, 28013",1
+714964758,Existing Customer,45.0,Fe,Graduate,Divorced,$40K - $60K,36,10400.0,0.171,+49 1523--4567890,"Madrid, Baker Street, 00187",
+716264358,Existing Customer,53.0,,Uneducated,Married,$80K - $120K,42,26792.0,0.069,+49 1523--4567890,"London, Gran Via, 10117",
+717296808,Existing Customer,67.0,F,Graduate,Married,,56,3006.0,0.837,+33 6--12 34--56 78,"Berlin, Via Condotti, 75001",1
+712977183,Existing Customer,57.0,m ,Uneducated,Single,$40K - $60K,36,19482.0,0.055,+33 6--12 34--56 78,"Madrid, Via Condotti, 75001",
+710829108,Existing Customer,59.0,F,Uneducated,Married,$40K - $60K,36,3356.0,0.294,+44 7911 123456,"London, Via Condotti, 10117",
+779562633,Existing Customer,45.0,M,Uneducated,Married,$40K - $60K,34,5771.0,0.39,+44 20 7946 0958,"Paris, Via Condotti, 28013",
+715315833,Existing Customer,51.0,m,Graduate,Married,$80K - $120K,36,11106.0,0.19,+44 20 7946 0958,"London, Baker Street, 28013",
+815500983,Existing Customer,59.0,F,Uneducated,Married,Less than $40K,54,2890.0,0.692,+44 20 7946 0958,"London, Rue de Rivoli, 75001",
+719360583,Existing Customer,53.0,M,Graduate,Married,$60K - $80K,45,3380.0,0.503,+49 1523--4567890,"Rome, Unter den Linden, NW1 6XE",
+709701558,Existing Customer,47.0,M,Graduate,Married,$60K - $80K,36,21331.0,0.059,+33 6 12 34 56 78,"London, Gran Via, 00187",
+721148358,Existing Customer,49.0,F,Uneducated,Single,Unknown,38,12860.0,0.0,+44 20 7946 0958,"Rome, Unter den Linden, 10117",
+779862408,Existing Customer,49.0,M ,Post-Graduate,Single,$80K - $120K,33,6278.0,0.074, +49 30 12345678,"Paris, Gran Via, 28013",
+812627208,Existing Customer,60.0,F,College,Single,Less than $40K,55,1438.3,0.513,+49 1523 456 7890,"Paris, Baker Street, 10117",
+711033408,Existing Customer,50.0,F,High School,Married,Less than $40K,36,9355.0,0.174,+33--6-23-45-67-89,"Paris, Rue de Rivoli, 75001",1
+779956608,Existing Customer,41.0,F,Post-Graduate,Married,Unknown,31,20758.0,0.0,+33 6--12 34--56 78,"Berlin, Unter den Linden, 75001",
+780376683,Existing Customer,57.0,M,Graduate,Married,$80K - $120K,47,14612.0,0.135, +49 30 12345678,"Madrid, Gran Via, 00187",
+717912483,Existing Customer,43.0,Male,Graduate,Unknown,$80K - $120K,27,27259.0,0.0,+33 6 12 34 56 78,"Paris, Unter den Linden, 10117",
+714454758,Existing Customer,57.0,f,Graduate,Married,Less than $40K,47,6347.0,0.251,+33 6 12 34 56 78,"Paris, Gran Via, 10117",1
+780466533,Existing Customer,54.0,M,Doctorate,Married,$120K +,41,21592.0,0.078,+44 7911 --123456,"Berlin, Via Condotti, 75001",1
+715735233,Existing Customer,51.0,F,Post-Graduate,Married,Less than $40K,44,3449.0,0.463,+49 1523 456 7890,"London, Unter den Linden, 75001",
+720476733,Existing Customer,47.0,F,High School,Married,Less than $40K,34,6028.0,0.133,+49 1523 456 7890,"Madrid, Rue de Rivoli, 00187",
+715872333,Existing Customer,,Fe,High School,Unknown,$120K +,36,18214.0,0.11,+33 6 12 34 56 78,"Rome, Gran Via, NW1 6XE",
+712375758,Existing Customer,53.0,M,Uneducated,Married,$80K - $120K,43,,0.087, +49 30 12345678,"Madrid, Unter den Linden, 00187",
+708868233,Attrited Customer,68.0,M,High School,Married,,52,1438.3,0.626,+49 1523--4567890,"London, Baker Street, 75001",
+718030083,Existing Customer,59.0,M,College,Married,$60K - $80K,36,7871.0,0.214,+33 6 12 34 56 78,"London, Baker Street, 75001",
+720707283,Existing Customer,48.0,M,Unknown,Married,$80K - $120K,36,5288.0,0.164,+49 1523 456 7890,"Paris, Via Condotti, 28013",
+771698658,Existing Customer,44.0,f,Graduate,Married,$60K - $80K,32,11376.0,0.176,+44 7911 --123456,"Rome, Baker Street, NW1 6XE",
+748326258,Existing Customer,48.0,M,College,Married,$80K - $120K,41,12302.0,0.133, +49 30 12345678,"Madrid, Gran Via, 75001",
+770817783,Existing Customer,47.0,F ,Graduate,Married,$60K - $80K,33,34516.0,0.049,+33--6-23-45-67-89,"Paris, Unter den Linden, 75001",
+779353083,Existing Customer,47.0,f,Graduate,Married,$60K - $80K,32,,0.043,+44 7911 --123456,"Paris, Gran Via, 10117",
+711441333,Existing Customer,,F,High School,Divorced,Less than $40K,35,10514.0,0.15,+49 1523 456 7890,"Berlin, Via Condotti, 00187",
+719808558,Attrited Customer,55.0,F,Graduate,Married,,43,1438.3,0.0,+44 7911 --123456,"Madrid, Unter den Linden, NW1 6XE",
+711551958,Attrited Customer,,M,Post-Graduate,Married,$60K - $80K,46,1438.3,0.0,+44 20 7946 0958,"Madrid, Via Condotti, 00187",
+809164083,Existing Customer,63.0,M,Graduate,Married,$40K - $60K,56,2619.0,0.679,+44 7911 123456,"Madrid, Via Condotti, 75001",
+820596183,Existing Customer,58.0,m,College,Married,$120K +,53,24407.0,0.098,+44 20 7946 0958,"London, Rue de Rivoli, 00187",
+715999608,Existing Customer,53.0,F,High School,Married,Less than $40K,36,2377.0,0.694,+44 7911 123456,"Rome, Rue de Rivoli, 10117",
+710565408,Existing Customer,59.0,M,Unknown,Unknown,$80K - $120K,40,34516.0,0.039,+33 6--12 34--56 78,"Berlin, Unter den Linden, NW1 6XE",
+805543158,Existing Customer,52.0,M,Graduate,Married,$120K +,47,11086.0,0.199,+44 7911 123456,"Madrid, Rue de Rivoli, 10117",
+709752183,Existing Customer,48.0,M,High School,Single,$60K - $80K,36,11432.0,0.22,+44 20 7946 0958,"London, Unter den Linden, 75001",
+716479233,Existing Customer,43.0,m,High School,Married,$40K - $60K,36,13258.0,0.13,+33 6 12 34 56 78,"London, Baker Street, 28013",
+713837058,Existing Customer,48.0,M,College,Single,Less than $40K,36,2571.0,0.76,+44 20 7946 0958,"Paris, Via Condotti, NW1 6XE",
+718876683,Existing Customer,43.0,F,Graduate,Single,Less than $40K,31,5781.0,0.202, +49 30 12345678,"London, Rue de Rivoli, 00187",
+770746908,Existing Customer,44.0,M,Unknown,Married,$60K - $80K,30,7872.0,0.319,+44 7911 --123456,"Paris, Baker Street, 28013",1
+794843883,Existing Customer,41.0,M,High School,Married,$80K - $120K,35,34516.0,0.035,+44 20 7946 0958,"Madrid, Gran Via, 00187",
+803043933,Existing Customer,44.0,F,Uneducated,Divorced,Less than $40K,38,11127.0,0.165,+33 6--12 34--56 78,"Berlin, Rue de Rivoli, NW1 6XE",
+758076408,Existing Customer,50.0,m,Unknown,Single,,43,1857.0,0.863,+33 6 12 34 56 78,"Paris, Via Condotti, 10117",
+714606558,Existing Customer,60.0,F,Uneducated,Married,,36,1913.0,0.665,+33--6-23-45-67-89,"Madrid, Unter den Linden, 00187",
+778425408,Existing Customer,44.0,Male,Graduate,Single,$80K - $120K,24,3839.0,0.598,+44 7911 --123456,"London, Unter den Linden, 00187",
+714171108,Existing Customer,48.0,F,Graduate,Divorced,$40K - $60K,39,2115.0,0.539,+33--6-23-45-67-89,"Madrid, Rue de Rivoli, 28013",
+719662458,Existing Customer,44.0,F,Graduate,Divorced,Less than $40K,27,1438.3,0.472,+44 7911 --123456,"London, Via Condotti, 75001",
+713137233,Existing Customer,41.0,M,High School,Single,$80K - $120K,28,27756.0,0.064,+44 20 7946 0958,"Rome, Gran Via, NW1 6XE",1
+769425858,Existing Customer,45.0,M,College,Single,$60K - $80K,32,1438.3,0.0,+44 7911 123456,"Berlin, Unter den Linden, 75001",
+711297483,Existing Customer,47.0,m,Uneducated,Divorced,Less than $40K,34,,0.16,+49 1523--4567890,"Madrid, Unter den Linden, 75001",
+788900883,Existing Customer,51.0,F,Graduate,Married,Less than $40K,36,3106.0,0.42,+33--6-23-45-67-89,"London, Gran Via, 10117",
+758348808,Existing Customer,51.0,M,Graduate,Married,,44,34516.0,0.048,+49 1523 456 7890,"Paris, Gran Via, 28013",
+772336458,Attrited Customer,,F,Uneducated,Married,$40K - $60K,50,1438.3,0.713,+49 1523 456 7890,"London, Rue de Rivoli, NW1 6XE",
+708711483,Existing Customer,,M,Unknown,Married,$80K - $120K,46,,0.092,+44 7911 123456,"Rome, Via Condotti, 00187",
+717906783,Existing Customer,41.0,M,Graduate,Single,$120K +,29,5207.0,0.336,+33 6 12 34 56 78,"London, Baker Street, 28013",
+719437908,Existing Customer,44.0,M,Post-Graduate,Divorced,$80K - $120K,36,17965.0,0.092,+44 7911 --123456,"Madrid, Via Condotti, 75001",
+769433508,,43.0,M,College,Single,$60K - $80K,37,2733.0,0.666,+33 6 12 34 56 78,"Paris, Gran Via, 10117",
+790096533,Existing Customer,55.0,M,College,Married,$60K - $80K,48,8863.0,0.147,+44 7911 --123456,"London, Gran Via, 00187",
+720997383,Attrited Customer,52.0,M,Uneducated,Married,$80K - $120K,36,1857.0,0.987,+49 1523 456 7890,"London, Rue de Rivoli, NW1 6XE",
+787541883,Existing Customer,44.0,-M,Graduate,Unknown,$80K - $120K,33,34516.0,0.0,+33 6 12 34 56 78,"Madrid, Gran Via, NW1 6XE",
+709930758,Existing Customer,41.0,M,Uneducated,Married,,30,11107.0,0.11,+33 6 12 34 56 78,"Rome, Unter den Linden, 28013",
+789830058,Existing Customer,44.0,Fe,Unknown,Single,$80K - $120K,34,21573.0,0.073,+33 6--12 34--56 78,"London, Unter den Linden, 75001",
+710299608,Attrited Customer,53.0,M ,Unknown,Married,Less than $40K,33,2859.0,0.88,+44 20 7946 0958,"Paris, Via Condotti, NW1 6XE",1
+710741208,Existing Customer,,M,High School,Single,$80K - $120K,36,5269.0,0.28, +49 30 12345678,"Paris, Baker Street, 75001",
+821797008,Attrited Customer,49.0,M,College,Married,,45,1438.3,0.0,+33--6-23-45-67-89,"Berlin, Unter den Linden, 75001",1
+708874533,Attrited Customer,45.0,F,College,Married,Less than $40K,36,3387.0,0.0,+44 20 7946 0958,"London, Gran Via, 75001",1
+715341858,Existing Customer,54.0,M,Graduate,Married,$80K - $120K,46,1982.0,0.65,+33--6-23-45-67-89,"Rome, Via Condotti, 00187",
+793636308,Existing Customer,49.0,M,Uneducated,Single,$80K - $120K,43,4645.0,0.355,+33 6--12 34--56 78,"London, Unter den Linden, 00187",
+713779908,Existing Customer,46.0,F,Doctorate,Single,,36,2189.0,0.761,+33--6-23-45-67-89,"Rome, Via Condotti, 75001",
+712125258,Attrited Customer,46.0,F ,High School,Married,$120K +,30,2442.0,0.0,+33 6 12 34 56 78,"Madrid, Baker Street, 10117",1
+709703433,,47.0,M,Graduate,Married,$60K - $80K,38,21304.0,0.072,+44 20 7946 0958,"London, Gran Via, 00187",1
+721022433,Existing Customer,44.0,M,Doctorate,Single,$60K - $80K,36,7577.0,0.327, +49 30 12345678,"Paris, Baker Street, 10117",1
+710103558,Existing Customer,50.0,M,Post-Graduate,Single,$120K +,31,3234.0,0.459, +49 30 12345678,"Madrid, Unter den Linden, 00187",
+715952883,Existing Customer,73.0,Fe,High School,Married,$40K - $60K,36,4469.0,0.252,+33 6 12 34 56 78,"Paris, Unter den Linden, 10117",
+719731458,Existing Customer,56.0,,Unknown,Unknown,$40K - $60K,46,2910.0,0.244,+33 6--12 34--56 78,"Rome, Gran Via, 10117",1
+772390908,Attrited Customer,59.0,f,High School,Single,$40K - $60K,48,3616.0,0.291,+49 1523--4567890,"Berlin, Unter den Linden, 10117",
+787348608,Existing Customer,70.0,femme,High School,Married,Less than $40K,56,3252.0,0.46,+44 7911 123456,"Berlin, Gran Via, 10117",
+709485033,Existing Customer,55.0,F,High School,Married,Less than $40K,36,,0.489,+33 6--12 34--56 78,"London, Unter den Linden, 75001",
+715432608,Existing Customer,43.0,M,Unknown,Single,$60K - $80K,36,22322.0,0.043,+44 20 7946 0958,"London, Baker Street, 10117",0
+799471833,Existing Customer,,Fe,Uneducated,Single,$120K +,39,3133.0,0.482,+44 20 7946 0958,"Rome, Via Condotti, 10117",
+714187533,Existing Customer,45.0,F,Uneducated,Single,$40K - $60K,35,3540.0,0.24,+49 1523--4567890,"Madrid, Rue de Rivoli, 10117",
+779656908,Existing Customer,40.0,F ,Graduate,Married,$40K - $60K,23,6990.0,0.197,+33 6 12 34 56 78,"Rome, Rue de Rivoli, 00187",
+788950158,Existing Customer,36.0,Fe,College,Unknown,$80K - $120K,22,34516.0,0.048,+33 6--12 34--56 78,"Paris, Via Condotti, NW1 6XE",
+778867533,Attrited Customer,,F ,Post-Graduate,Married,$40K - $60K,40,1438.3,0.0, +49 30 12345678,"Madrid, Unter den Linden, 10117",
+710620383,Existing Customer,43.0,,Unknown,Married,$60K - $80K,35,24396.0,0.048,+44 20 7946 0958,"Paris, Unter den Linden, NW1 6XE",
+778661358,Existing Customer,46.0,F,Unknown,Married,Less than $40K,36,2474.0,0.866,+33--6-23-45-67-89,"Madrid, Via Condotti, 10117",
+789483333,Existing Customer,41.0,Fe,Uneducated,Married,$40K - $60K,32,5214.0,0.152, +49 30 12345678,"London, Via Condotti, NW1 6XE",
+809855808,Existing Customer,51.0,F,Graduate,Married,Less than $40K,46,5207.0,0.317,+33 6--12 34--56 78,"Madrid, Baker Street, NW1 6XE",
+718464258,Existing Customer,51.0,f,Unknown,Unknown,Less than $40K,25,9512.0,0.114,+33--6-23-45-67-89,"Paris, Gran Via, 28013",
+708528483,Existing Customer,43.0,F,Graduate,Divorced,Unknown,23,3187.0,0.762, +49 30 12345678,"Paris, Rue de Rivoli, 00187",
+771809733,Attrited Customer,64.0,F,High School,Married,$40K - $60K,53,3353.0,0.0,+33--6-23-45-67-89,"Berlin, Rue de Rivoli, 75001",
+719942883,Existing Customer,,,Graduate,Married,,38,2290.0,0.626,+44 20 7946 0958,"Madrid, Via Condotti, 10117",1
+807226683,Existing Customer,48.0,F ,Unknown,Single,$40K - $60K,43,5279.0,0.211,+44 20 7946 0958,"Paris, Unter den Linden, 75001",
+717806133,Existing Customer,40.0,Fe,Uneducated,Divorced,,29,23603.0,0.0,+44 7911 123456,"London, Rue de Rivoli, 10117",
+720615708,Existing Customer,57.0,M,Uneducated,Married,$40K - $60K,45,2601.0,0.0,+49 1523--4567890,"Rome, Via Condotti, NW1 6XE",
+714511758,Existing Customer,45.0,M,Graduate,Single,$80K - $120K,40,,0.162, +49 30 12345678,"Berlin, Via Condotti, 75001",
+715050408,,41.0,M,High School,Single,$80K - $120K,36,8029.0,0.196,+44 7911 --123456,"Madrid, Via Condotti, NW1 6XE",
+721132233,Existing Customer,,F,Uneducated,Married,Less than $40K,31,2410.0,0.734,+49 1523--4567890,"Rome, Gran Via, NW1 6XE",
+719211558,Attrited Customer,45.0,M,Graduate,Single,$60K - $80K,36,3401.0,0.0,+33--6-23-45-67-89,"London, Via Condotti, 75001",1
+712069008,Existing Customer,,F,Uneducated,Married,Less than $40K,23,2260.0,0.446, +49 30 12345678,"Madrid, Rue de Rivoli, 00187",
+715996983,Existing Customer,47.0,M,Uneducated,Divorced,$80K - $120K,30,17682.0,0.14,+33--6-23-45-67-89,"Madrid, Unter den Linden, 00187",
+773466258,Existing Customer,48.0,F,High School,Married,$40K - $60K,42,4206.0,0.262, +49 30 12345678,"Berlin, Rue de Rivoli, 75001",
+798983508,Existing Customer,43.0,M,Graduate,Single,$80K - $120K,37,34516.0,0.042, +49 30 12345678,"Madrid, Baker Street, NW1 6XE",
+719117433,Existing Customer,41.0,M,High School,Unknown,$80K - $120K,36,23018.0,0.094,+33 6 12 34 56 78,"London, Rue de Rivoli, 28013",
+716451183,Existing Customer,54.0,F,Uneducated,Married,$40K - $60K,44,5556.0,0.308,+33 6--12 34--56 78,"Berlin, Baker Street, 75001",
+718621608,Attrited Customer,54.0,F,High School,Married,Unknown,44,6094.0,0.0, +49 30 12345678,"Paris, Via Condotti, 75001",1
+715085733,Existing Customer,61.0,f,Graduate,Married,$40K - $60K,52,2939.0,0.68, +49 30 12345678,"Paris, Rue de Rivoli, 10117",0
+788977833,Existing Customer,61.0,M,Uneducated,Married,$80K - $120K,48,5362.0,0.238,+33--6-23-45-67-89,"Rome, Gran Via, NW1 6XE",
+720272958,Attrited Customer,48.0,M,High School,Married,$120K +,36,,0.0,+44 7911 123456,"Rome, Gran Via, NW1 6XE",
+708421833,Existing Customer,45.0,F,Graduate,Single,Less than $40K,36,3342.0,0.753,+49 1523--4567890,"London, Rue de Rivoli, 10117",
+709173108,Attrited Customer,54.0,,Graduate,Married,Unknown,40,2532.0,0.877,+49 1523--4567890,"Rome, Baker Street, 10117",
+709879458,Existing Customer,,F,Doctorate,Married,Unknown,46,1900.0,0.724,+49 1523--4567890,"London, Rue de Rivoli, 00187",
+715120608,Existing Customer,44.0,M,Graduate,Single,$60K - $80K,37,14546.0,0.117, +49 30 12345678,"Berlin, Unter den Linden, 00187",
+770632758,Existing Customer,50.0,M ,Doctorate,Single,Unknown,36,2521.0,0.638,+44 20 7946 0958,"Madrid, Via Condotti, 00187",
+779078733,Existing Customer,55.0,M,Doctorate,Married,$60K - $80K,36,16427.0,0.102,+49 1523--4567890,"London, Gran Via, 28013",
+771742533,Existing Customer,48.0,f,Graduate,Unknown,$40K - $60K,36,13068.0,0.131,+44 7911 123456,"Rome, Unter den Linden, 00187",1
+720250158,Existing Customer,45.0,M ,College,Single,$60K - $80K,33,23218.0,0.078,+49 1523 456 7890,"Rome, Unter den Linden, 10117",1
+716458983,Existing Customer,60.0,F ,High School,Married,$40K - $60K,36,3281.0,0.255,+49 1523 456 7890,"Paris, Unter den Linden, 00187",
+713747733,Existing Customer,55.0,M,High School,Married,$40K - $60K,47,3096.0,0.716, +49 30 12345678,"London, Unter den Linden, 28013",
+712270158,Existing Customer,62.0,F,High School,Married,$40K - $60K,52,2052.0,0.609,+33 6--12 34--56 78,"Paris, Unter den Linden, NW1 6XE",
+789562383,Existing Customer,38.0,F,High School,Unknown,Less than $40K,30,1438.3,0.405,+49 1523--4567890,"London, Unter den Linden, 28013",
+754897008,Existing Customer,46.0,M,High School,Single,$40K - $60K,39,9432.0,0.15,+44 7911 123456,"Madrid, Baker Street, NW1 6XE",
+819700533,Existing Customer,50.0,m,High School,Single,$120K +,45,14938.0,0.154,+44 7911 --123456,"Rome, Baker Street, NW1 6XE",
+712890408,Existing Customer,45.0,M,Uneducated,Married,$60K - $80K,36,2221.0,0.605,+33 6 12 34 56 78,"London, Unter den Linden, 28013",
+720248208,Existing Customer,47.0,M,Post-Graduate,Divorced,$60K - $80K,37,5731.0,0.275,+49 1523--4567890,"Rome, Baker Street, 75001",
+779749908,Existing Customer,,f,College,Married,$60K - $80K,33,34516.0,0.06,+49 1523 456 7890,"Paris, Unter den Linden, 28013",
+717401883,Existing Customer,35.0,Fe,Uneducated,Married,$60K - $80K,22,6985.0,0.162,+33 6--12 34--56 78,"London, Unter den Linden, 75001",
+721509558,Existing Customer,51.0,Fe,Graduate,Married,$120K +,42,24221.0,0.07, +49 30 12345678,"Madrid, Rue de Rivoli, 75001",0
+710572458,Existing Customer,36.0,M ,High School,Married,Unknown,24,15439.0,0.0,+44 20 7946 0958,"Paris, Via Condotti, 28013",
+714576183,Existing Customer,,M,Graduate,Single,$80K - $120K,36,21637.0,0.094,+49 1523--4567890,"Berlin, Gran Via, NW1 6XE",
+721425558,Existing Customer,52.0,M,Graduate,Single,$120K +,37,14543.0,0.0,+44 7911 123456,"Rome, Unter den Linden, 00187",1
+711109908,Existing Customer,,m,Uneducated,Married,Less than $40K,36,9684.0,0.256,+49 1523 456 7890,"Paris, Baker Street, 10117",
+715203108,Existing Customer,63.0,M,High School,Married,$40K - $60K,36,5007.0,0.186,+49 1523--4567890,"Madrid, Baker Street, 75001",
+710027508,Existing Customer,61.0,M,Graduate,Married,$60K - $80K,54,1616.0,0.648,+44 20 7946 0958,"Paris, Baker Street, NW1 6XE",
+787464408,Existing Customer,53.0,M ,Uneducated,Single,$60K - $80K,40,19116.0,0.0,+49 1523--4567890,"Paris, Via Condotti, NW1 6XE",
+783542133,Existing Customer,53.0,M ,Graduate,Married,Less than $40K,47,2759.0,0.806, +49 30 12345678,"Madrid, Rue de Rivoli, 75001",
+708330858,Attrited Customer,57.0,M,Graduate,Married,$120K +,38,,0.167,+49 1523--4567890,"Berlin, Baker Street, 10117",
+714426783,Existing Customer,38.0,F,Graduate,Single,Unknown,31,14041.0,0.153,+49 1523--4567890,"Rome, Rue de Rivoli, 10117",10
+712701333, ,53.0,,High School,Married,$60K - $80K,43,5264.0,0.412,+49 1523 456 7890,"Berlin, Via Condotti, 00187",
+709494483,Existing Customer,63.0,F,Unknown,Married,Less than $40K,54,2420.0,0.79,+49 1523--4567890,"Rome, Rue de Rivoli, NW1 6XE",
+773373108,Existing Customer,49.0,F,High School,Married,Less than $40K,43,2826.0,0.732,+33--6-23-45-67-89,"Madrid, Via Condotti, 10117",
+715812258,Existing Customer,45.0,,High School,Married,$80K - $120K,34,12518.0,0.123,+33 6--12 34--56 78,"London, Via Condotti, 75001",
+778286433,Existing Customer,67.0,M,Graduate,Married,$40K - $60K,56,5876.0,0.221,+44 20 7946 0958,"Paris, Baker Street, 28013",
+789270033,Existing Customer,48.0,M,Graduate,Single,$80K - $120K,37,34516.0,0.0,+33 6 12 34 56 78,"Rome, Gran Via, 28013",
+711569433,Existing Customer,51.0,F,Uneducated,Divorced,Less than $40K,38,9648.0,0.2, +49 30 12345678,"London, Via Condotti, 10117",
+720214833,Existing Customer,52.0,M,High School,Single,$80K - $120K,40,34516.0,0.063,+44 20 7946 0958,"Paris, Via Condotti, NW1 6XE",
+709346133,Existing Customer,55.0,F,Uneducated,Married,Unknown,35,3025.0,0.785,+44 7911 --123456,"Rome, Via Condotti, NW1 6XE",1
+788194458,Existing Customer,34.0,M,High School,Married,$60K - $80K,26,3265.0,0.771,+44 7911 --123456,"Paris, Gran Via, 75001",0
+720779733,Existing Customer,56.0,M,Uneducated,Married,$120K +,36,6041.0,0.224,+44 7911 --123456,"Berlin, Baker Street, 00187",
+717424458,,44.0,Fe,Post-Graduate,Married,Less than $40K,36,2293.0,0.795,+33 6 12 34 56 78,"Paris, Baker Street, 28013",
+708820308,Existing Customer,47.0,M,Post-Graduate,Unknown,$80K - $120K,36,13399.0,0.187,+44 7911 --123456,"Rome, Unter den Linden, 28013",1
+710558058,Existing Customer,46.0,F,Unknown,Married,Less than $40K,38,4317.0,0.583,+49 1523--4567890,"Rome, Unter den Linden, 75001",
